@@ -4,3 +4,6 @@ orange
 brown
 green
 cyan
+gold
+cyber yellow
+french violet
