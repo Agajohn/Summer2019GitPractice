@@ -6,4 +6,8 @@ green
 cyan
 gold
 cyber yellow
+purple
+gold
+pink
 french violet
+flame
