@@ -1,7 +1,4 @@
-WA
-GA
-NY
-CA
-NE
-MI
-NJ
+alabama
+alaska
+arizona
+colifornia
