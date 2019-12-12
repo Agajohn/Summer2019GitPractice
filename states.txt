@@ -2,3 +2,6 @@ WA
 GA
 NY
 CA
+NE
+MI
+NJ
