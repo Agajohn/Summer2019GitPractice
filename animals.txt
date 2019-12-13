@@ -4,3 +4,5 @@ lion
 tiger
 wolf
 cow
+baran
+donuz
